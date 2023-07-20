@@ -63,7 +63,7 @@ function RPG() {
 
 
   var passwordLength = parseInt
-    (prompt("Please choose a number between 8-128 characters for your password."));
+    (prompt("How long does your password need to be? (8-128 characters)")); 
   if (passwordLength < 8) {
     alert("Your password must be 8 characters or longer!")
   }
@@ -73,19 +73,19 @@ function RPG() {
 
 
   // Variable for lower case
-  var selectedLower = confirm("Would you like characters?");
+  var selectedLower = confirm("Do you need lowercase letters?");
 
 
   // Variable for upper case
-  var selectedUpper = confirm("Would you like characters?");
+  var selectedUpper = confirm("Do you need capital letters?");
 
 
   // Variable for special characters
-  var selectedSpecial = confirm("Would you like special characters?");
+  var selectedSpecial = confirm("Do you need special characters?");
 
 
   // Variable for numeric characters
-  var selectedNumeric = confirm("Would you like characters?");
+  var selectedNumeric = confirm("Do you need numbers?");
 
 
   // Function for input validation
