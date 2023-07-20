@@ -24,4 +24,4 @@ N/A
 
 Please refer to the LICENSE in the repo.
 
-![](assets/frontpage.png) 
+![Simple white page with a red button](./Assets/frontpage.png) 
