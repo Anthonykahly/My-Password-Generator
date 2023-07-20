@@ -1,11 +1,8 @@
 # My-Password-Generator
+![Simple white page with a red button](./Assets/frontpage.png) 
 
 ## Description
 This password generator uses a combination of user inputs to form randomized passwords to protect user information and accounts.
-
-## Installation
-
-N/A
 
 ## Usage
 
@@ -24,4 +21,7 @@ N/A
 
 Please refer to the LICENSE in the repo.
 
-![Simple white page with a red button](./Assets/frontpage.png) 
+## Links
+
+Github: https://github.com/Anthonykahly/My-Password-Generator
+Pages:  https://anthonykahly.github.io/My-Password-Generator/
